@@ -13,7 +13,7 @@ This repo collects links to other repos of mine that contain solutions to interv
 * [List manipulation problem](https://github.com/bediger4000/addition_puzzle), do 2 numbers in a list add to a given sum.
 * [Reverse a string](https://github.com/bediger4000/golang-unicode-string-reversal), a silly problem, but it has depths if it's a Unicode string.
 * [Print a string zig-zag](https://github.com/bediger4000/zigzag-programming-problem)
-* [Estimate Pi](https://github.com/bediger4000/estimate_pi)https://github.com/bediger4000/estimate_pi) using a Monte Carlo method. People have done this in the real world.
+* [Estimate Pi](https://github.com/bediger4000/estimate_pi) using a Monte Carlo method. People have done this in the real world.
 * [Find if a string could be a palindrome anagram](https://github.com/bediger4000/possible-palindromes)
 * [Recreate binary search tree from a post-order traversal](https://github.com/bediger4000/postorder-tree-traversal) I think this algorithm is unique.
 * [AVL binary search trees](https://github.com/bediger4000/avl_tree). This would be an advanced interview question indeed.
@@ -25,4 +25,12 @@ This repo collects links to other repos of mine that contain solutions to interv
 I've tried to either solve them in a uniqure or lesser-known fashion, or explore them more fully.
 I've also tried to include an analysis of the question,
 maybe from a programming point of view,
-but also from the point of view of what you could legitimately expect from a developer in an interview.
+but also from the point of view of what you could legitimately expect from a developer in an interview, and why.
+
+My takeaway after looking at all of these is that Daily Coding Problem doesn't rate a problem very accurately.
+If you're the job candidate, you can't feel bad if an interviewer asks you what they
+consider an "easy" problem, and you can't get it.
+A lot of these problems require insight that might not arrive in the stress of an interview.
+The flip side of this is that the interviewer should have some solution in mind,
+a solution appropriate for the job in question.
+The interviewer might not get what they're interested in from any given candidate.
