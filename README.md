@@ -13,7 +13,7 @@ This repo collects links to other repos of mine that contain solutions to interv
 * [List manipulation problem](https://github.com/bediger4000/addition_puzzle), do 2 numbers in a list add to a given sum.
 * [Reverse a string](https://github.com/bediger4000/golang-unicode-string-reversal), a silly problem, but it has depths if it's a Unicode string.
 * [Print a string zig-zag](https://github.com/bediger4000/zigzag-programming-problem)
-* [Monte Carlo method estimate Pi](https://github.com/bediger4000/estimate_pi)https://github.com/bediger4000/estimate_pio
+* [Estimate Pi](https://github.com/bediger4000/estimate_pi)https://github.com/bediger4000/estimate_pi) using a Monte Carlo method. People have done this in the real world.
 * [Find if a string could be a palindrome anagram](https://github.com/bediger4000/possible-palindromes)
 * [Recreate binary search tree from a post-order traversal](https://github.com/bediger4000/postorder-tree-traversal) I think this algorithm is unique.
 * [AVL binary search trees](https://github.com/bediger4000/avl_tree). This would be an advanced interview question indeed.
