@@ -7,6 +7,7 @@ to see if I can.
 This repo collects links to other repos of mine that contain solutions to interview questions and puzzles.
 
 * [Binary tree](https://github.com/bediger4000/binary_tree) problems. There's a bunch in here.
+* [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
 * [Linked list](https://github.com/bediger4000/linked_lists) problems. This repo contains several interview questions.
 * [Collatz conjecture](https://github.com/bediger4000/collatz-conjecture-puzzle) question.
 * [Array rotation algorithms](https://github.com/bediger4000/array-rotation-algorithms), these come up a lot.
@@ -21,17 +22,17 @@ This repo collects links to other repos of mine that contain solutions to interv
 * [Great Tree List Recursion Problem, Go](https://github.com/bediger4000/tree-list-recursion-go)
 * [Great Tree List Recursion Problem, C](https://github.com/bediger4000/tree-list-recursion-c)
 * [Pour water from jug to jug](https://github.com/bediger4000/egyptian-waterjar-puzzle) just to get a non-jugful amount.
-* [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
 
 I've tried to either solve them in a uniqure or lesser-known fashion, or explore them more fully.
 I've also tried to include an analysis of the question,
 maybe from a programming point of view,
-but also from the point of view of what you could legitimately expect from a developer in an interview, and why.
+but also from the point of view of what an interviewer could legitimately expect from a developer in an interview, and why.
 
 My takeaway after looking at all of these is that Daily Coding Problem doesn't rate a problem very accurately.
-If you're the job candidate, you can't feel bad if an interviewer asks you what they
-consider an "easy" problem, and you can't get it.
+Job candidates simply can't feel bad if an interviewer asks what they
+consider an "easy" problem, and the candidate can't solve it.
 A lot of these problems require insight that might not arrive in the stress of an interview.
 The flip side of this is that the interviewer should have some solution in mind,
-a solution appropriate for the job in question.
+a solution appropriate for the job in question,
+and the seniority of the candidate.
 The interviewer might not get what they're interested in from any given candidate.
