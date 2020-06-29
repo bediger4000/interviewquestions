@@ -21,6 +21,7 @@ This repo collects links to other repos of mine that contain solutions to interv
 * [Great Tree List Recursion Problem, Go](https://github.com/bediger4000/tree-list-recursion-go)
 * [Great Tree List Recursion Problem, C](https://github.com/bediger4000/tree-list-recursion-c)
 * [Pour water from jug to jug](https://github.com/bediger4000/egyptian-waterjar-puzzle) just to get a non-jugful amount.
+* [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
 
 I've tried to either solve them in a uniqure or lesser-known fashion, or explore them more fully.
 I've also tried to include an analysis of the question,
