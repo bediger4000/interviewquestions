@@ -9,6 +9,7 @@ This repo collects links to other repos of mine that contain solutions to interv
 * [Binary tree](https://github.com/bediger4000/binary_tree) problems. There's a bunch in here.
 * [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
 * [Linked list](https://github.com/bediger4000/linked_lists) problems. This repo contains several interview questions.
+* [RPN calculator](https://github.com/bediger4000/reverse-polish-problem) Reverse polish notation calculator.
 * [Collatz conjecture](https://github.com/bediger4000/collatz-conjecture-puzzle) question.
 * [Array rotation algorithms](https://github.com/bediger4000/array-rotation-algorithms), these come up a lot.
 * [List manipulation problem](https://github.com/bediger4000/addition_puzzle), do 2 numbers in a list add to a given sum.
