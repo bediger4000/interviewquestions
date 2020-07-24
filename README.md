@@ -25,6 +25,7 @@ This repo collects links to other repos of mine that contain solutions to interv
 * [Pour water from jug to jug](https://github.com/bediger4000/egyptian-waterjar-puzzle) just to get a non-jugful amount.
 * [Kaprekar's Constant](https://github.com/bediger4000/kaprekar)
 * [Flipping N fair coins](https://github.com/bediger4000/fair-coin-flipping), eliminating all the come up tails, then repeating.
+* [Soundex algorithm](https://github.com/bediger4000/soundex), Soundex in Go.
 
 I've tried to either solve them in a uniqure or lesser-known fashion, or explore them more fully.
 I've also tried to include an analysis of the question,
