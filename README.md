@@ -26,6 +26,7 @@ This repo collects links to other repos of mine that contain solutions to interv
 * [Kaprekar's Constant](https://github.com/bediger4000/kaprekar)
 * [Flipping N fair coins](https://github.com/bediger4000/fair-coin-flipping), eliminating all the come up tails, then repeating.
 * [Soundex algorithm](https://github.com/bediger4000/soundex), Soundex in Go.
+* [Roman numerals to decimal](https://github.com/bediger4000/romannumerals)
 
 I've tried to either solve them in a uniqure or lesser-known fashion, or explore them more fully.
 I've also tried to include an analysis of the question,
