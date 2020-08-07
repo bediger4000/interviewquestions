@@ -28,6 +28,7 @@ This repo collects links to other repos of mine that contain solutions to interv
 * [Soundex algorithm](https://github.com/bediger4000/soundex), Soundex in Go.
 * [Roman numerals to decimal](https://github.com/bediger4000/romannumerals)
 * [Sort list](https://github.com/bediger4000/reverselistsort) using only an array-reverse operation.
+* [Boggle-like game](https://github.com/bediger4000/boggle-question) find a word according to Boggle-game rules
 
 I've tried to either solve them in a uniqure or lesser-known fashion, or explore them more fully.
 I've also tried to include an analysis of the question,
