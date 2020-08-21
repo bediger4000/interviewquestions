@@ -29,7 +29,8 @@ This repo collects links to other repos of mine that contain solutions to interv
 * [Roman numerals to decimal](https://github.com/bediger4000/romannumerals)
 * [Sort list](https://github.com/bediger4000/reverselistsort) using only an array-reverse operation.
 * [Boggle-like game](https://github.com/bediger4000/boggle-question) find a word according to Boggle-game rules
-* [Balanced parens/brackets/braces](https://github.com/bediger4000/balanced-parens) interview question.
+* [Balanced parens/brackets/braces](https://github.com/bediger4000/balanced-parens)
+* [Run-length encoding](https://github.com/bediger4000/runlength-encoding)
 
 I've tried to either solve them in a uniqure or lesser-known fashion, or explore them more fully.
 I've also tried to include an analysis of the question,
