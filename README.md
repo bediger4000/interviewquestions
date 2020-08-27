@@ -31,6 +31,7 @@ This repo collects links to other repos of mine that contain solutions to interv
 * [Boggle-like game](https://github.com/bediger4000/boggle-question) find a word according to Boggle-game rules
 * [Balanced parens/brackets/braces](https://github.com/bediger4000/balanced-parens)
 * [Run-length encoding](https://github.com/bediger4000/runlength-encoding)
+* [Job scheduler](https://github.com/bediger4000/jobscheduler)
 
 I've tried to either solve them in a uniqure or lesser-known fashion, or explore them more fully.
 I've also tried to include an analysis of the question,
