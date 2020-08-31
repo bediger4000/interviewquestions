@@ -32,6 +32,7 @@ This repo collects links to other repos of mine that contain solutions to interv
 * [Balanced parens/brackets/braces](https://github.com/bediger4000/balanced-parens)
 * [Run-length encoding](https://github.com/bediger4000/runlength-encoding)
 * [Job scheduler](https://github.com/bediger4000/jobscheduler)
+* [Markov chain](https://github.com/bediger4000/markov-chain)
 
 I've tried to either solve them in a uniqure or lesser-known fashion, or explore them more fully.
 I've also tried to include an analysis of the question,
