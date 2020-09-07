@@ -6,8 +6,29 @@ to see if I can.
 
 This repo collects links to other repos of mine that contain solutions to interview questions and puzzles.
 
-* [Binary tree](https://github.com/bediger4000/binary_tree) problems. There's a bunch in here.
-* [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
+* [Binary tree](https://github.com/bediger4000/binary_tree) problems.
+This repo contains a number of problems,
+and a tree package (it's in Go) to make
+solving the problems less repetitious.
+  * Invert a binary tree
+  * Breadth-first traverse
+  * Return the maximum depth and/or the deepest node
+  * Reconstruct original tree from pre-order and in-order traversals
+  * Find all paths from root to leaves
+  * Print tree nodes' values in boustrophedon order
+  * Print "cousin" nodes of a given node
+  * Prune a tree so all subtrees that have a 0-valued node are removed
+  * Minimum-height binary search tree from a sorted array
+  * Find lowest-common ancestor of a given node. Assume pointer to parent node
+  * Count nodes in a "complete" binary tree in less than linear time
+  * Determine whether a binary tree is height-balanced
+  * Return the "inorder successor" (next biggest node) of a given node in a binary tree
+  * Find the "bottom view" of a binary tree
+  * Given a binary tree, find a minimum path sum from root to a leaf
+  * Find nodes of a tree with values inside a given range
+  * Implement locking in a binary tree. Weird locking, but locking.
+  * Count "unival subtrees" in a binary tree
+ [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
 * [Linked list](https://github.com/bediger4000/linked_lists) problems. This repo contains several interview questions.
 * [RPN calculator](https://github.com/bediger4000/reverse-polish-problem) Reverse polish notation calculator.
 * [Collatz conjecture](https://github.com/bediger4000/collatz-conjecture-puzzle) question.
