@@ -28,7 +28,7 @@ solving the problems less repetitious.
   * Find nodes of a tree with values inside a given range
   * Implement locking in a binary tree. Weird locking, but locking.
   * Count "unival subtrees" in a binary tree
- [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
+* [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
 * [Linked list](https://github.com/bediger4000/linked_lists) problems. This repo contains several interview questions.
 * [RPN calculator](https://github.com/bediger4000/reverse-polish-problem) Reverse polish notation calculator.
 * [Collatz conjecture](https://github.com/bediger4000/collatz-conjecture-puzzle) question.
