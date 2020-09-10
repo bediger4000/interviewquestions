@@ -29,7 +29,17 @@ solving the problems less repetitious.
   * Implement locking in a binary tree. Weird locking, but locking.
   * Count "unival subtrees" in a binary tree
 * [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
-* [Linked list](https://github.com/bediger4000/linked_lists) problems. This repo contains several interview questions.
+* [Linked list](https://github.com/bediger4000/linked_lists) problems.
+This repo contains several interview questions,
+and a Go linked list package to make solving problems less repetitious.
+  * Build a stack from a linked list
+  * Implement a queue using two stacks. This is an old standby.
+  * Merge two sorted linked lists
+  * Find the middle item in a linked list
+  * Reverse a linked list in place. Another old, familiar face.
+  * Is a list palindromic?
+  * The classic "XOR next and previous pointers", harder to do in type safe Go.
+  * Remove kth Last element of a list
 * [RPN calculator](https://github.com/bediger4000/reverse-polish-problem) Reverse polish notation calculator.
 * [Collatz conjecture](https://github.com/bediger4000/collatz-conjecture-puzzle) question.
 * [Array rotation algorithms](https://github.com/bediger4000/array-rotation-algorithms), these come up a lot.
