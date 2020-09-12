@@ -65,7 +65,8 @@ and a Go linked list package to make solving problems less repetitious.
 * [Job scheduler](https://github.com/bediger4000/jobscheduler)
 * [Markov chain](https://github.com/bediger4000/markov-chain)
 
-I've tried to either solve them in a uniqure or lesser-known fashion, or explore them more fully.
+I've tried to either solve them in a unique or lesser-known fashion,
+or explore them more fully with alternate solutions.
 I've also tried to include an analysis of the question,
 maybe from a programming point of view,
 but also from the point of view of what an interviewer could legitimately expect from a developer in an interview, and why.
