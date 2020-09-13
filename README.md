@@ -64,6 +64,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Run-length encoding](https://github.com/bediger4000/runlength-encoding)
 * [Job scheduler](https://github.com/bediger4000/jobscheduler)
 * [Markov chain](https://github.com/bediger4000/markov-chain)
+* Make a [stack from a heap](https://github.com/bediger4000/stack)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
