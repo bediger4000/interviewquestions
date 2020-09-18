@@ -66,6 +66,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Markov chain](https://github.com/bediger4000/markov-chain)
 * Make a [stack from a heap](https://github.com/bediger4000/stack)
 * [Reverse bits](https://github.com/bediger4000/bitsreversed) of an integer
+* [Decipher single-byte-XORed ciphertext](https://github.com/bediger4000/singlexor) 
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
