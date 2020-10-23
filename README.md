@@ -70,6 +70,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Reverse bits](https://github.com/bediger4000/bitsreversed) of an integer
 * [Decipher single-byte-XORed ciphertext](https://github.com/bediger4000/singlexor) 
 * [Write a function which alternately adds and subtracts curried arguments](https://github.com/bediger4000/curried-arithmetic)
+* [String representation of numbers](https://github.com/bediger4000/parse-number-strings)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
