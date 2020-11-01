@@ -42,6 +42,7 @@ and a Go linked list package to make solving problems less repetitious.
   * Is a list palindromic?
   * The classic "XOR next and previous pointers", harder to do in type safe Go.
   * Remove kth Last element of a list
+  * Rotate a list by k elements
 * [RPN calculator](https://github.com/bediger4000/reverse-polish-problem) Reverse polish notation calculator.
 * [Collatz conjecture](https://github.com/bediger4000/collatz-conjecture-puzzle) question.
 * [Array rotation algorithms](https://github.com/bediger4000/array-rotation-algorithms), these come up a lot.
