@@ -73,6 +73,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Write a function which alternately adds and subtracts curried arguments](https://github.com/bediger4000/curried-arithmetic)
 * [String representation of numbers](https://github.com/bediger4000/parse-number-strings)
 * [Swap even/odd bits](https://github.com/bediger4000/swapbits)
+* [Bitwise AND](https://github.com/bediger4000/bitwise-and) all numbers between M and N inclusive. Bad question.
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
