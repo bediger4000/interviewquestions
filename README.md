@@ -74,6 +74,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [String representation of numbers](https://github.com/bediger4000/parse-number-strings)
 * [Swap even/odd bits](https://github.com/bediger4000/swapbits)
 * [Bitwise AND](https://github.com/bediger4000/bitwise-and) all numbers between M and N inclusive. Bad question.
+* [randomly-chosen knight's moves](https://github.com/bediger4000/knightmoves) that stay on chessboard
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
