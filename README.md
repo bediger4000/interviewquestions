@@ -78,6 +78,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Bitwise AND](https://github.com/bediger4000/bitwise-and) all numbers between M and N inclusive. Bad question.
 * [randomly-chosen knight's moves](https://github.com/bediger4000/knightmoves) that stay on chessboard
 * [Normalize Unix-style path name](https://github.com/bediger4000/pathnormalize)
+* [Gray Code](https://github.com/bediger4000/graycode) for arbitrary number of bits
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
