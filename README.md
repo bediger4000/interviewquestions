@@ -81,6 +81,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Gray Code](https://github.com/bediger4000/graycode) for arbitrary number of bits
 * [Variant Singleton pattern](https://github.com/bediger4000/odd-singleton), very cognitively dissonant
 * [Generalized N-Queens](https://github.com/bediger4000/nqueens)
+* [James Tanton's twitter puzzle](https://github.com/bediger4000/tanton1)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
