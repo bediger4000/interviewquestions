@@ -82,6 +82,8 @@ and a Go linked list package to make solving problems less repetitious.
 * [Variant Singleton pattern](https://github.com/bediger4000/odd-singleton), very cognitively dissonant
 * [Generalized N-Queens](https://github.com/bediger4000/nqueens)
 * [James Tanton's twitter puzzle](https://github.com/bediger4000/tanton1)
+* [Make one random distribution out of another](https://github.com/bediger4000/random7)
+* [Flatten nested dictionary](https://github.com/bediger4000/flattendict)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
