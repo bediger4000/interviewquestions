@@ -85,6 +85,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [James Tanton's twitter puzzle](https://github.com/bediger4000/tanton1)
 * [Make one random distribution out of another](https://github.com/bediger4000/random7)
 * [Flatten nested dictionary](https://github.com/bediger4000/flattendict)
+* [Probability Club](https://github.com/bediger4000/probability-club) membership fee
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
