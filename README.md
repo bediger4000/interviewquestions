@@ -81,7 +81,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Gray Code](https://github.com/bediger4000/graycode) for arbitrary number of bits
 * [Variant Singleton pattern](https://github.com/bediger4000/odd-singleton), very cognitively dissonant
 * [Generalized N-Queens](https://github.com/bediger4000/nqueens)
-* [Knigth's Tour](https://github.com/bediger4000/knights-tour)
+* [Knight's Tour](https://github.com/bediger4000/knights-tour)
 * [James Tanton's twitter puzzle](https://github.com/bediger4000/tanton1)
 * [Make one random distribution out of another](https://github.com/bediger4000/random7)
 * [Flatten nested dictionary](https://github.com/bediger4000/flattendict)
