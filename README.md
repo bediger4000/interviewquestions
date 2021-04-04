@@ -89,6 +89,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Find next biggest number](https://github.com/bediger4000/bitmax) with same number of 1-bits as input
 * One of those freaky [do an if with bitwise operations](https://github.com/bediger4000/bitops) problems
 * [Sieve of Eratosthenes](https://github.com/bediger4000/sieve)
+* Given cons function in Python, [implement car, cdr](https://github.com/bediger4000/python_cons_car_cdr)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
