@@ -90,6 +90,7 @@ and a Go linked list package to make solving problems less repetitious.
 * One of those freaky [do an if with bitwise operations](https://github.com/bediger4000/bitops) problems
 * [Sieve of Eratosthenes](https://github.com/bediger4000/sieve)
 * Given cons function in Python, [implement car, cdr](https://github.com/bediger4000/python_cons_car_cdr)
+* [LRU cache](https://github.com/bediger4000/lru-cache)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
