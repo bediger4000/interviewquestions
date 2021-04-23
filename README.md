@@ -91,6 +91,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Sieve of Eratosthenes](https://github.com/bediger4000/sieve)
 * Given cons function in Python, [implement car, cdr](https://github.com/bediger4000/python_cons_car_cdr)
 * [LRU cache](https://github.com/bediger4000/lru-cache)
+* Bitwise and arithmethic [combo puzzle](https://github.com/bediger4000/scaling-octo-invention)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
