@@ -94,6 +94,7 @@ and a Go linked list package to make solving problems less repetitious.
 * Bitwise and arithmethic [combo puzzle](https://github.com/bediger4000/scaling-octo-invention)
 * [Match sub-trees](https://github.com/bediger4000/tree-pattern-matching)
 * Integer division [without most numerical operators](https://github.com/bediger4000/divisionwithout)
+* Classic [word frequency](https://github.com/bediger4000/commonwords) problem
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
