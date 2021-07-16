@@ -32,11 +32,13 @@ solving the problems less repetitious.
   * Find the largest sub-tree having the binary search tree property of a tree
 * [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
 * [Linked list](https://github.com/bediger4000/linked_lists) problems.
-This repo contains several interview questions,
+This repo contains solutions to several interview questions,
+all in Go,
 and a Go linked list package to make solving problems less repetitious.
   * Build a stack from a linked list
   * Implement a queue using two stacks. This is an old standby.
   * Merge two sorted linked lists
+  * Merge K sorted linked lists
   * Find the middle item in a linked list
   * Reverse a linked list in place. Another old, familiar face.
   * Is a singly-linked list palindromic?
