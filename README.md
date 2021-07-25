@@ -101,6 +101,7 @@ and a Go linked list package to make solving problems less repetitious.
 * Classic [word frequency](https://github.com/bediger4000/commonwords) problem
 * [Array element manipulation](https://github.com/bediger4000/zeros-to-end)
 * [Greatest common denominator](https://github.com/bediger4000/greatest-common-denominator) of a set of numbers
+* Backtracking [balanced parentheses](https://github.com/bediger4000/more-parens)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
