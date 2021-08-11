@@ -49,6 +49,7 @@ and a Go linked list package to make solving problems less repetitious.
   * Determine if a doubly-linked list is a palindrome
   * Add two numbers, each represented as a linked list of single place values
   * Sort a linked list numerically by node values
+  * Find intersection of 2 non-cyclical linked lists
 * [RPN calculator](https://github.com/bediger4000/reverse-polish-problem) Reverse polish notation calculator.
 * [Collatz conjecture](https://github.com/bediger4000/collatz-conjecture-puzzle) question.
 * [Array rotation algorithms](https://github.com/bediger4000/array-rotation-algorithms), these come up a lot.
