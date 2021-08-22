@@ -105,6 +105,7 @@ and a Go linked list package to make solving problems less repetitious.
 * Backtracking [balanced parentheses](https://github.com/bediger4000/more-parens)
 * [Max stack](https://github.com/bediger4000/max_stack)
 * [Reservoir sampling](https://github.com/bediger4000/reservoir-sampling)
+* [UTF-8 byte stream validation](https://github.com/bediger4000/utf8validator)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
