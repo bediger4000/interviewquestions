@@ -30,6 +30,7 @@ solving the problems less repetitious.
   * Count "unival subtrees" in a binary tree
   * Merge two binary trees
   * Find the largest sub-tree having the binary search tree property of a tree
+  * Find the second-largest value in a binary search tree
 * [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
 * [Linked list](https://github.com/bediger4000/linked_lists) problems.
 This repo contains solutions to several interview questions,
@@ -107,6 +108,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Reservoir sampling](https://github.com/bediger4000/reservoir-sampling)
 * [UTF-8 byte stream validation](https://github.com/bediger4000/utf8validator)
 * [Arithmetic expression evaluator](https://github.com/bediger4000/arithmetic-parser)
+* [Huffman encoding](https://github.com/bediger4000/huffman)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
