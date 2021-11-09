@@ -30,6 +30,8 @@ solving the problems less repetitious.
   * Count "unival subtrees" in a binary tree
   * Merge two binary trees
   * Find the largest sub-tree having the binary search tree property of a tree
+  * Serialize/deserialize a binary tree
+  * Generate a finite, but arbitrarily large binary tree in O(1) time
   * Find the second-largest value in a binary search tree
 * [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
 * [Linked list](https://github.com/bediger4000/linked_lists) problems.
@@ -39,8 +41,8 @@ and a Go linked list package to make solving problems less repetitious.
   * Build a stack from a linked list
   * Implement a queue using two stacks. This is an old standby.
   * Merge two sorted linked lists
+  * Find the middle item of a linked list
   * Merge K sorted linked lists
-  * Find the middle item in a linked list
   * Reverse a linked list in place. Another old, familiar face.
   * Is a singly-linked list palindromic?
   * The classic "XOR next and previous pointers", harder to do in type safe Go.
@@ -49,7 +51,10 @@ and a Go linked list package to make solving problems less repetitious.
   * Swap every two nodes of a list
   * Determine if a doubly-linked list is a palindrome
   * Add two numbers, each represented as a linked list of single place values
+  * Partition a linked list, given a partition value
   * Sort a linked list numerically by node values
+  * Remove consecutive list nodes whose value sums to zero
+  * Remove a node in the middle of the list
   * Find intersection of 2 non-cyclical linked lists
 * [RPN calculator](https://github.com/bediger4000/reverse-polish-problem) Reverse polish notation calculator.
 * [Collatz conjecture](https://github.com/bediger4000/collatz-conjecture-puzzle) question.
