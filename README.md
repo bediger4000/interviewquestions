@@ -122,7 +122,10 @@ I've also tried to include an analysis of the question,
 maybe from a programming point of view,
 but also from the point of view of what an interviewer could legitimately expect from a developer in an interview, and why.
 
-My takeaway after looking at all of these is that Daily Coding Problem doesn't rate a problem very accurately.
+My takeaway after looking at all of these interview questions
+is that Daily Coding Problem doesn't rate a problem very accurately.
+Even non-Daily Coding Problem interview questions are often outlandish,
+answers are required in an unreasonably short time frame.
 Job candidates simply can't feel bad if an interviewer asks what they
 consider an "easy" problem, and the candidate can't solve it.
 A lot of these problems require insight that might not arrive in the stress of an interview.
