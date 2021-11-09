@@ -109,6 +109,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [UTF-8 byte stream validation](https://github.com/bediger4000/utf8validator)
 * [Arithmetic expression evaluator](https://github.com/bediger4000/arithmetic-parser)
 * [Huffman encoding](https://github.com/bediger4000/huffman)
+* [Decoding a scrambled URL](https://github.com/bediger4000/scrambledurl)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
