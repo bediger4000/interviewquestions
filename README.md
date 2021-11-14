@@ -115,6 +115,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Arithmetic expression evaluator](https://github.com/bediger4000/arithmetic-parser)
 * [Huffman encoding](https://github.com/bediger4000/huffman)
 * [Decoding a scrambled URL](https://github.com/bediger4000/scrambledurl)
+* [Words between delimiters](https://github.com/bediger4000/delimiters)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
