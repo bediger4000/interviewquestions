@@ -117,6 +117,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Decoding a scrambled URL](https://github.com/bediger4000/scrambledurl)
 * [Words between delimiters](https://github.com/bediger4000/delimiters)
 * [Look and say sequence](https://github.com/bediger4000/lookandsay)
+* [Balancing dice problem](https://github.com/bediger4000/balancedice)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
