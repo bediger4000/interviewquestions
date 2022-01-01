@@ -94,7 +94,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Generalized N-Queens](https://github.com/bediger4000/nqueens)
 * [Knight's Tour](https://github.com/bediger4000/knights-tour)
 * [James Tanton's twitter puzzle](https://github.com/bediger4000/tanton1)
-* [Make one random distribution out of another](https://github.com/bediger4000/random7)
+* [Make one random distribution out of another](https://github.com/bediger4000/random7), random5 out of random7, and vice versa
 * [Flatten nested dictionary](https://github.com/bediger4000/flattendict)
 * [Probability Club](https://github.com/bediger4000/probability-club) membership fee
 * [Find next biggest number](https://github.com/bediger4000/bitmax) with same number of 1-bits as input
@@ -118,6 +118,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Words between delimiters](https://github.com/bediger4000/delimiters)
 * [Look and say sequence](https://github.com/bediger4000/lookandsay)
 * [Balancing dice problem](https://github.com/bediger4000/balancedice)
+* [Word game helper](https://github.com/bediger4000/words)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
