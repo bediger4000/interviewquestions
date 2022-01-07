@@ -124,8 +124,10 @@ and a Go linked list package to make solving problems less repetitious.
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
 I've also tried to include an analysis of the question,
-maybe from a programming point of view,
-but also from the point of view of what an interviewer could legitimately expect from a developer in an interview, and why.
+from the point of view of what an interviewer could legitimately expect
+from a developer, and what a developer could do with a problem.
+
+---
 
 My takeaway after looking at all of these interview questions
 is that Daily Coding Problem doesn't rate a problem very accurately.
