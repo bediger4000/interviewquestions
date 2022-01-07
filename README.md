@@ -119,6 +119,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Look and say sequence](https://github.com/bediger4000/lookandsay)
 * [Balancing dice problem](https://github.com/bediger4000/balancedice)
 * [Word game helper](https://github.com/bediger4000/words)
+* [Generate IPv4 Addresses](https://github.com/bediger4000/generate-ip-addresses)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
