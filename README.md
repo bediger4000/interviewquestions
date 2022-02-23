@@ -33,6 +33,7 @@ solving the problems less repetitious.
   * Serialize/deserialize a binary tree
   * Generate a finite, but arbitrarily large binary tree in O(1) time
   * Find the second-largest value in a binary search tree
+  * Flatten a binary tree into linked list in place, pre-order-traverse-order
 * [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
 * [Linked list](https://github.com/bediger4000/linked_lists) problems.
 This repo contains solutions to several interview questions,
