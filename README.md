@@ -141,3 +141,6 @@ The flip side of this is that the interviewer should have some solution in mind,
 a solution appropriate for the job in question,
 and the seniority of the candidate.
 The interviewer might not get what they're interested in from any given candidate.
+
+[Article on interview questions](https://thoughtspile.github.io/2022/03/21/bad-tech-interview/),
+from a JavaScript point of view.
