@@ -34,6 +34,7 @@ solving the problems less repetitious.
   * Generate a finite, but arbitrarily large binary tree in O(1) time
   * Find the second-largest value in a binary search tree
   * Flatten a binary tree into linked list in place, pre-order-traverse-order
+  * Find the level of a binary tree with the minimum sum
 * [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
 * [Linked list](https://github.com/bediger4000/linked_lists) problems.
 This repo contains solutions to several interview questions,
@@ -121,6 +122,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Balancing dice problem](https://github.com/bediger4000/balancedice), a subset sum problem
 * [Word game helper](https://github.com/bediger4000/words)
 * [Generate IPv4 Addresses](https://github.com/bediger4000/generate-ip-addresses) from a string of digits
+* [Unusual string reversal](https://github.com/bediger4000/reverse-words)
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
