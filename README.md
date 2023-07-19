@@ -104,7 +104,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Sieve of Eratosthenes](https://github.com/bediger4000/sieve)
 * Given cons function in Python, [implement car, cdr](https://github.com/bediger4000/python_cons_car_cdr)
 * [LRU cache](https://github.com/bediger4000/lru-cache)
-* Bitwise and arithmethic [combo puzzle](https://github.com/bediger4000/scaling-octo-invention)
+* Bitwise operations and arithmethic [combo puzzle](https://github.com/bediger4000/scaling-octo-invention)
 * [Match sub-trees](https://github.com/bediger4000/tree-pattern-matching)
 * Integer division [without most numerical operators](https://github.com/bediger4000/divisionwithout)
 * Classic [word frequency](https://github.com/bediger4000/commonwords) problem
