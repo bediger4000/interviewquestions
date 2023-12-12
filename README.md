@@ -124,6 +124,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Generate IPv4 Addresses](https://github.com/bediger4000/generate-ip-addresses) from a string of digits
 * [Unusual string reversal](https://github.com/bediger4000/reverse-words)
 * [letter order from sorted words](https://github.com/bediger4000/alien_words)
+* [find min, max array values](https://github.com/bediger4000/minmaxarray), question demands bizarre optimizations
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
