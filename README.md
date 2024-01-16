@@ -125,6 +125,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Unusual string reversal](https://github.com/bediger4000/reverse-words)
 * [letter order from sorted words](https://github.com/bediger4000/alien_words)
 * [find min, max array values](https://github.com/bediger4000/minmaxarray), question demands bizarre optimizations
+* [flip characters in a string](https://github.com/bediger4000/xyxxxyxyy) to coerce string to meet a criterion
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
