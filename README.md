@@ -126,6 +126,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [letter order from sorted words](https://github.com/bediger4000/alien_words)
 * [find min, max array values](https://github.com/bediger4000/minmaxarray), question demands bizarre optimizations
 * [flip characters in a string](https://github.com/bediger4000/xyxxxyxyy) to coerce string to meet a criterion
+* [count valid heaps](https://github.com/bediger4000/heapcount) that could be created from a collection of integers
 
 I've tried to either solve them in a unique or lesser-known fashion,
 or explore them more fully with alternate solutions.
