@@ -35,6 +35,7 @@ solving the problems less repetitious.
   * Find the second-largest value in a binary search tree
   * Flatten a binary tree into linked list in place, pre-order-traverse-order
   * Find the level of a binary tree with the minimum sum
+  * Find the most frequent sum of subtree node's values
 * [k-ary tree symmetry](https://github.com/bediger4000/tree_symmetry) determine whether a tree with arbitrary number of children is symmetric.
 * [Linked list](https://github.com/bediger4000/linked_lists) problems.
 This repo contains solutions to several interview questions,
