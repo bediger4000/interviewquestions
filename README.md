@@ -59,6 +59,8 @@ and a Go linked list package to make solving problems less repetitious.
   * Remove consecutive list nodes whose value sums to zero
   * Remove a node in the middle of the list
   * Find intersection of 2 non-cyclical linked lists
+  * Floyd's and Brent's algorithms to find cycle in list
+  * Deep copy a list with an extra pointer to another, randomly-chosed list node
 * [RPN calculator](https://github.com/bediger4000/reverse-polish-problem) Reverse polish notation calculator.
 * [Collatz conjecture](https://github.com/bediger4000/collatz-conjecture-puzzle) question.
 * [Array rotation algorithms](https://github.com/bediger4000/array-rotation-algorithms), these come up a lot.
