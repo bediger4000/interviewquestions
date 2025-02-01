@@ -60,7 +60,20 @@ and a Go linked list package to make solving problems less repetitious.
   * Remove a node in the middle of the list
   * Find intersection of 2 non-cyclical linked lists
   * Floyd's and Brent's algorithms to find cycle in list
-  * Deep copy a list with an extra pointer to another, randomly-chosed list node
+  * Deep copy a list with an extra pointer to another, randomly-chosen list node
+  * Nick Parlante's Linked List Problems
+    * Count the number of times a value shows up in a list
+    * Find the data value of the Nth node of a list
+    * Pop the head node from a list
+    * Insert a node with a given value into a list at a given index 
+    * Insert a value into a sorted list at the correct location
+    * Sort a list via the insertion of nodes at correct locations
+    * Create one list from two, by destructively appending one list to the other
+    * Split a list into two equals sublists.
+    * Remove duplicates from a list with sorted data values
+    * Given two lists, remove the head node from one and prepend it to the other
+    * Split a list into two sublists, each containing alternating elements of the original list
+    * Merge two sorted lists into a single, sorted, list
 * [RPN calculator](https://github.com/bediger4000/reverse-polish-problem) Reverse polish notation calculator.
 * [Collatz conjecture](https://github.com/bediger4000/collatz-conjecture-puzzle) question.
 * [Array rotation algorithms](https://github.com/bediger4000/array-rotation-algorithms), these come up a lot.
@@ -107,7 +120,7 @@ and a Go linked list package to make solving problems less repetitious.
 * [Sieve of Eratosthenes](https://github.com/bediger4000/sieve)
 * Given cons function in Python, [implement car, cdr](https://github.com/bediger4000/python_cons_car_cdr)
 * [LRU cache](https://github.com/bediger4000/lru-cache)
-* Bitwise operations and arithmethic [combo puzzle](https://github.com/bediger4000/scaling-octo-invention)
+* Bitwise operations and arithmetic [combo puzzle](https://github.com/bediger4000/scaling-octo-invention)
 * [Match sub-trees](https://github.com/bediger4000/tree-pattern-matching)
 * Integer division [without most numerical operators](https://github.com/bediger4000/divisionwithout)
 * Classic [word frequency](https://github.com/bediger4000/commonwords) problem
