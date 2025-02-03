@@ -65,15 +65,17 @@ and a Go linked list package to make solving problems less repetitious.
     * Count the number of times a value shows up in a list
     * Find the data value of the Nth node of a list
     * Pop the head node from a list
-    * Insert a node with a given value into a list at a given index 
-    * Insert a value into a sorted list at the correct location
-    * Sort a list via the insertion of nodes at correct locations
+    * Insert a node with a given value into a list at a given index
     * Create one list from two, by destructively appending one list to the other
-    * Split a list into two equals sublists.
+    * Split a list into two equal sublists
     * Remove duplicates from a list with sorted data values
     * Given two lists, remove the head node from one and prepend it to the other
     * Split a list into two sublists, each containing alternating elements of the original list
+    * Shuffle two lists together, alternating nodes from the original lists
     * Merge two sorted lists into a single, sorted, list
+    * Create a new list from "insection" of two sorted lists
+    * Reverse a list iteratively
+    * Reverse a list recursively
 * [RPN calculator](https://github.com/bediger4000/reverse-polish-problem) Reverse polish notation calculator.
 * [Collatz conjecture](https://github.com/bediger4000/collatz-conjecture-puzzle) question.
 * [Array rotation algorithms](https://github.com/bediger4000/array-rotation-algorithms), these come up a lot.
